@@ -27,12 +27,12 @@ const siteProps = {
   name: "Fetheddine Addad",
   title: "Cloud and Data Enthusiast",
   email: "addadfetheddine@gmail.com",
-  gitHub: "https://github.com/Fetheddine-Addad",
-  instagram: "https://www.instagram.com/fetheddineaddad/",
-  linkedIn: "satyanadella",
-  medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  gitHub: "Fetheddine-Addad",
+  instagram: "fetheddineaddad/",
+  linkedIn: "fetheddine-addad",
+  medium: "addadfetheddine",
+  twitter: "Fetheddine313",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";
