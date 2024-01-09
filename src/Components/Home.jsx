@@ -20,7 +20,7 @@ import PropTypes from "prop-types";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/CloudData.jpg";
+import image from "../images/cloud.jpg";
 
 const imageAltText = "A man staring at a screen with a Cloud network And some illustration of data usage in our era";
 
