@@ -21,7 +21,7 @@ import React from "react";
  */
 import image from "../images/CloudData.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Data and cloud illustrations group";
 
 /**
  * Project list

@@ -22,7 +22,7 @@ import PropTypes from "prop-types";
  */
 import image from "../images/cloud.jpg";
 
-const imageAltText = "A man staring at a screen with a Cloud network And some illustration of data usage in our era";
+const imageAltText = "Clouds image";
 
 const Home = ({ name, title }) => {
   return (
