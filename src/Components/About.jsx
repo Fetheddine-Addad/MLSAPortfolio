@@ -24,18 +24,18 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a computer science student passionate about staying updated on the latest tech advancements and applying my cloud computing, AI, big data expertise to real-world problems. I'm a quick learner who enjoys collaborating with others on innovative projects.";
+  "I'm an award-winning computer science student passionate about staying updated on the latest tech advancements and applying my expertise to real-world problems. I'm a quick learner who enjoys collaborating with others on innovative projects.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
+  "Cloud Computing",
+  "Big data",
+  "Machine learning",
+  "Data Mining and Analysis",
+  "Web development",
   "Graphic design",
 ];
 
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate about solving problems through innovative cloud computing and data solutions.";
 
 const About = () => {
   return (
