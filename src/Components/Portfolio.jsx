@@ -31,28 +31,28 @@ const imageAltText = "Data and cloud illustrations group";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "MSFT Student Ambassador",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "As a Microsoft Student Ambassador, I lead a community of students who are passionate about technology. I organize events, share opportunities, and help students learn new skills.",
+    url: "https://mvp.microsoft.com/en-US/studentambassadors/profile/9177b448-a5e4-4146-b08b-0889a4bcd3ff",
   },
   {
-    title: "Web Development for Beginners",
+    title: "LinkedIn Profile",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Check my LinkedIn profile for more information about my experience and my skills. Join my professional network.",
+    url: "https://www.linkedin.com/in/fetheddine-addad/",
   },
   {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Check my resume. i'm open to opportunities and collaborations.",
+    url: "https://drive.google.com/file/d/1JE2io3AVNHc-3WdhRYDuKJTYsRaO93YB/view",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "GitHub Profile",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Check my github profile for more projects and contributions. I am always learning and creating.",
+    url: "https://github.com/Fetheddine-Addad",
   },
 ];
 
